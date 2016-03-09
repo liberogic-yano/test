@@ -1,28 +1,14 @@
-## 概要
-ここにIssueの概要を書く
-What・Whyもここに書くと良いと思う
+## Containment Bay S1T7(Exterme)
 
-Issue #3
-
-## 変更点
-- [x] 一層
-- [x] 二層
-- [x] 三層
-- [x] 四層
-
-## 追加タスク
-- [ ] ギミック追加
-- [ ] DPSチェック
-- [ ] スイッチ
-
-### 関連課題
+## Job
 ---
-関連する課題があればここにリンク形式で載せる（Backlog）
+White Mage or Astologain
 
-### 親課題
+## 1st Phase
 ---
-親の課題があればここにリンク形式で載せる（Backlog）
+- [ ] Combust, Combust II
+- [ ] The Bole to MT
+- [ ] Time Dilation to MT
 
-#### 備考
+## 2nd Phase
 ---
-別途記載する必要があれば書く
