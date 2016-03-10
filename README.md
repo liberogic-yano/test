@@ -1,8 +1,8 @@
-## Containment Bay S1T7(Exterme)
+## Containment Bay S1T7(Extreme)
 
 ## Job
 ---
-White Mage or Astologain
+White Mage or Astrologain
 
 ## 1st Phase
 ---
