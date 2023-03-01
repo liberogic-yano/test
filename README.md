@@ -1,8 +1,5 @@
 # test
 
-gpg test
-4272E78F
-
 ## Containment Bay S1T7(Extreme)
 
 hoge
