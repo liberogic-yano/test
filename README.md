@@ -2,9 +2,7 @@
 
 ## Containment Bay S1T7(Extreme)
 
-hoge
-
-hoge 1235
+test
 
 ## Job
 ---
